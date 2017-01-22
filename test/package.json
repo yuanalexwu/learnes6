@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0"
+  }
+}
